@@ -6,3 +6,4 @@ for i in range(1,11):
 print("Training done!!")
 
 open("model.file", "w")
+open("./valohai-outputs/model.file", "w")
