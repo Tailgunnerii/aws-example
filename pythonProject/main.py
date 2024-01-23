@@ -5,5 +5,5 @@ for i in range(1,11):
 
 print("Training done!!")
 
-open("model.file", "w")
+open("model.file", "w").write("Hello World")
 open("/valohai/outputs/model.file", "w")
